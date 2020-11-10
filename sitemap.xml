@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://xufeng666.github.io/categories/</loc>
+    <loc>https://xufeng666.github.io/</loc>
+    <lastmod>2020-11-10T18:00:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xufeng666.github.io/</loc>
+    <loc>https://xufeng666.github.io/post/newblog/</loc>
+    <lastmod>2020-11-10T18:00:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xufeng666.github.io/post/</loc>
+    <lastmod>2020-11-10T18:00:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xufeng666.github.io/post/test/</loc>
+    <lastmod>2020-11-10T17:47:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xufeng666.github.io/categories/</loc>
   </url>
   
   <url>
